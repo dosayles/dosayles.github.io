@@ -3,11 +3,11 @@
 
 
 
-<title type="text">Douglas Sayles</title>
+<title type="text">dosayles</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2017-02-23T06:10:45+05:30</updated>
+<updated>2017-02-23T08:22:02+05:30</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Douglas Sayles</name>
@@ -70,7 +70,7 @@ usage &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux,%20java/2016/12/21/core-affinity/&quot;&gt;Core Affinity&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux,%20java/2016/12/21/core-affinity/&quot;&gt;Core Affinity&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -180,7 +180,7 @@ m:close();
 &lt;p&gt;Happy Coding … :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/10/18/iot-and-nodemcu/&quot;&gt;IoT and nodemcu&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on October 18, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/10/18/iot-and-nodemcu/&quot;&gt;IoT and nodemcu&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on October 18, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -382,7 +382,7 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;Happy Coding …&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gpu/2016/06/29/CUDA-Pain-GT-540M/&quot;&gt;CUDA and Pain with GeForce GT 540M&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gpu/2016/06/29/CUDA-Pain-GT-540M/&quot;&gt;CUDA and Pain with GeForce GT 540M&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -473,7 +473,7 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/&quot;&gt;LM35->Arduino->RPi2&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on March 20, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2016/03/20/LM35DZ-Arduino-Rpi2/&quot;&gt;LM35->Arduino->RPi2&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on March 20, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -515,7 +515,7 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;&lt;img align=&quot;center&quot; src=&quot;http://www.generalhobby.com/images/products/spirit-freewing-1.png&quot; /&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2015/09/01/rc-plane-pre-planning/&quot;&gt;RC Plane - Preplan&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on September 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/embedded/2015/09/01/rc-plane-pre-planning/&quot;&gt;RC Plane - Preplan&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on September 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -626,7 +626,7 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 &lt;p&gt;Happy coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/analytics/2015/05/10/sentiment-analysis-with-R/&quot;&gt;Sentiment analysis with R&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on May 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/analytics/2015/05/10/sentiment-analysis-with-R/&quot;&gt;Sentiment analysis with R&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on May 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -659,7 +659,7 @@ Processing triggers &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;libc-bin &l
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2015/04/01/alias-makes-life-easy/&quot;&gt;Alias makes life easy&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2015/04/01/alias-makes-life-easy/&quot;&gt;Alias makes life easy&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on April 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -712,7 +712,7 @@ First step is check the patch.&lt;/li&gt;
 &lt;p&gt;Happy coding and a happy new year 2015 :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/12/31/working-with-git-patch/&quot;&gt;Working with GIT patch&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on December 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/12/31/working-with-git-patch/&quot;&gt;Working with GIT patch&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on December 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -881,7 +881,7 @@ finished. total &lt;span class=&quot;nb&quot;&gt;time&lt;/span&gt;: 150.897s&lt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/android/2014/11/23/install-lollipop-on-nexus-4/&quot;&gt;Install lollipop 5.0 to Nexus 4&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on November 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/android/2014/11/23/install-lollipop-on-nexus-4/&quot;&gt;Install lollipop 5.0 to Nexus 4&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on November 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -970,7 +970,7 @@ sudo touch /etc/apache2/apache2.conf
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/09/14/bang-bang/&quot;&gt;Bang-Bang, Be lazy!!&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on September 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/09/14/bang-bang/&quot;&gt;Bang-Bang, Be lazy!!&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on September 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1057,7 +1057,7 @@ If true, useCapture indicates that the user wishes to initiate capture. After in
 &lt;p&gt;Happy Codeing …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/javascript/2014/09/07/javascript-attache-with-events/&quot;&gt;Javascript - ♥ Attach with events&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/javascript/2014/09/07/javascript-attache-with-events/&quot;&gt;Javascript - ♥ Attach with events&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on September 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1171,7 +1171,7 @@ Done :  &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&qu
 &lt;p&gt;Happy coding …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/testing/2014/08/30/Super-awesome-automation/&quot;&gt;Super awesome automation testing&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on August 30, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/testing/2014/08/30/Super-awesome-automation/&quot;&gt;Super awesome automation testing&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on August 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1327,7 +1327,7 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/nodejs/2014/08/17/N-for-Node.js/&quot;&gt;'N' for NodeJS&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/nodejs/2014/08/17/N-for-Node.js/&quot;&gt;'N' for NodeJS&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1369,7 +1369,7 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/08/python-timezone-convertion/&quot;&gt;Timezone conversion in python -Easy way&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on August 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/08/python-timezone-convertion/&quot;&gt;Timezone conversion in python -Easy way&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on August 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1447,7 +1447,7 @@ Loved NodeJS ♥&lt;/p&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/04/killer-mailer/&quot;&gt;Killer mailer script in Python&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on August 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/python/2014/08/04/killer-mailer/&quot;&gt;Killer mailer script in Python&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on August 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1502,7 +1502,7 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy coding ….. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/01/19/functions-in-shell-script/&quot;&gt;Functions in shell script&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/linux/2014/01/19/functions-in-shell-script/&quot;&gt;Functions in shell script&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on January 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1557,7 +1557,7 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding …. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/17/using-mysql-dump/&quot;&gt;Using MySQL dump&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/17/using-mysql-dump/&quot;&gt;Using MySQL dump&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1604,7 +1604,7 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy coding.. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/15/checking-mysql-database-size/&quot;&gt;Checking MySQL Database Size&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/database/2013/12/15/checking-mysql-database-size/&quot;&gt;Checking MySQL Database Size&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on December 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1721,7 +1721,7 @@ sql_exec&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 &lt;p&gt;Happy Coding .. :)&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/java/2013/12/10/capturing-http-header-in-JAX-RS/&quot;&gt;Capturing HTTP Header In JAX-RS&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;Douglas Sayles&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/java/2013/12/10/capturing-http-header-in-JAX-RS/&quot;&gt;Capturing HTTP Header In JAX-RS&lt;/a&gt; was originally published by Douglas Sayles at &lt;a href=&quot;http://localhost:4000&quot;&gt;dosayles&lt;/a&gt; on December 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
