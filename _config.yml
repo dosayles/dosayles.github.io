@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "dosayles.github.io"
 highlighter: rouge
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 paginate: 4
 gems: [jekyll-paginate]
 paginate_path: "/page:num"
