@@ -1,9 +1,9 @@
 # Jekyll Defaults
 title: dosayles
 description: Doug's personal web page and blog(ish)
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://dosayles.github.io"
+url: "dosayles.github.io"
 highlighter: rouge
 markdown: kramdown
 permalink: pretty
