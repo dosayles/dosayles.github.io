@@ -3,7 +3,7 @@ title: dosayles
 description: Doug's personal web page and blog(ish)
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "dosayles.github.io"
+url: "https://dosayles.github.io"
 highlighter: rouge
 markdown: kramdown
 permalink: /:title
