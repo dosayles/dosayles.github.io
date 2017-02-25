@@ -12,7 +12,7 @@ body {
 }
 
 .footer a {
-    color: #ee4444;
+    color: #87CEFA;
 }
 
 .sidebar h1 {
@@ -21,7 +21,8 @@ body {
 }
 
 .sidebar a {
-    color: #428bca;
+    #color: #428bca;
+    color: #8470FF;
 }
 
 .sidebar li {
@@ -39,6 +40,7 @@ body {
 
 .well h1 {
     color: #ee4444;
+    #color: #4F94CD;
     font-size: 1.3em;
 }
 
