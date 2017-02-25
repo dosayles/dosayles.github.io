@@ -14,8 +14,9 @@ logo: "/assets/images/link-building.png"
 float_logo: true # true, false (default)
 
 # blog cover
-#cover: "/assets/images/big_data.jpg"
-cover: "/assets/images/intro-bg.jpg"
+#cover: "/assets/images/intro-bg.jpg"
+cover: "/assets/images/bd_splash.jpg"
+banner: "/assets/images/bd_footer2.jpg"
 
 name: 'Douglas Sayles'
 author: 'Douglas Sayles'
