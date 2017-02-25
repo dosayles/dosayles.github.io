@@ -14,12 +14,6 @@ My interests and hence the origin of this page is around code, analytics, system
 I'll even throw some code from time to time...python, R, java...
 ```
 
-## dosayles on the Internet
-
-* [linkedin] | [twitter] | [github]
 
 <img src="{{ site.baseurl }}/images/big_data.jpg" alt="Big Data" style="width: 350px;" />
 
-[linkedin]: https://linkedin.com/in/dosayles
-[twitter]: http://twiter.com/dosayles
-[github]: https://github.com/dosayles
