@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "dosayles"
 description: > # this means to ignore newlines until "email:"
-    Doug's personal web page and blog(ish) pertaining to big data
+    Doug's personal web page and blog(ish) pertaining to Big Data
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,8 +16,10 @@ btn: "/assets/images/menu_btn.png"
 
 # blog cover
 #cover: "/assets/images/intro-bg.jpg"
-cover: "/assets/images/bd_footer4.jpg"
-footer: "/assets/images/bd_footer5.jpg"
+cover: "/assets/images/bd_footer5.jpg"
+#cover: "/assets/images/header04.jpg"
+footer: "/assets/images/header04.jpg"
+#footer: "/assets/images/code_banner.jpg"
 
 name: 'Douglas Sayles'
 author: 'Douglas Sayles'
