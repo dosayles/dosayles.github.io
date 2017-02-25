@@ -22,9 +22,9 @@ We'll even throw some code from time to time...python, R, java...
 ```
 Automation, orchestration and policy are predicated on code...exploring this together we'll address how it can help solve the above challenges being faced.  I'm versed in HTML/CSS, Java, Python, R, Bash (#!), Perl, Go, JSON, YML, and numerous others. We can decompose API constructs together or individually towards creating projects that effectively address the challenge at hand.
 
-#Philosophy
+# Philosophy
 
-Our approach will be simple. As a team we'll start with requirements and architect to panacea. We'll identify stakeholder perspectives and ensure that the solution fullfills those unique requirements. Upon design completion, we'll apply budget and executive sponsorship. Applying budget conotates trade-offs; a requirements-first approach ensures education around potential solution trade-offs. All deltas are agreed upon by the stakeholders to ensure system success. 
+My approach is straight forward and pragmatic. As a team we'll start with requirements and architect to panacea. We'll identify stakeholder perspectives and ensure that the solution fullfills those unique requirements. Upon design completion, we'll apply budget and executive sponsorship. Applying budget conotates trade-offs; a requirements-first approach ensures education around potential solution trade-offs. All deltas are agreed upon by the stakeholders to ensure system success. 
 
 # Interests
 
