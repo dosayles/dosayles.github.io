@@ -10,7 +10,9 @@ I'm currently a Consulting Systems Engineer for Cisco Systems, helping Data Cent
 
 My interests and hence the origin of this page is around code, analytics, system architecture and of course...data. I have great interest in all things data and hope to convey some of that here.
 
-> I'll even throw some code from time to time...python, R, java...
+```
+I'll even throw some code from time to time...python, R, java...
+```
 
 ## dosayles on the Internet
 
