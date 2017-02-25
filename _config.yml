@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "dosayles"
+title: "Douglas Sayles"
 description: > # this means to ignore newlines until "email:"
-    Hello, I'm Doug...welcome to my personal site about data
+    Doug's personal web page and blog(ish) pertaining to big data
 
 email: a-mail@mail.mail
 #blog logo
