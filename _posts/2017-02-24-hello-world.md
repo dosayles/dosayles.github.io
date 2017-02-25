@@ -13,7 +13,7 @@ This weekend I'm iterating through additional mapper/reducer code to run on the 
 
 Getting started with Hadoop overall requires a shift in thinking. Any shift in thinking should not be foreign to an IT geek trying to figure stuff out in today's world or at any other time for that matter. The very fabric of compute and technology is continuous advancement...stagnation is death of revelance.  You can extrapolate this to a vendor or the crusty UNIX guy in the corner.  The micro-second either say "cool, we're good" showing an unwillingness to think differently about problems...they're TOAST.
 
-![Dilbert's UNIX dude](/images/cartoon_dilbert_condescending_unix_user_204x194.png)
+![Dilbert's UNIX dude](/assets/images/cartoon_dilbert_condescending_unix_user_204x194.png)
 
 # Methodology with Hadoop...
 The primary method to change your thoughts with Hadoop today involves how you manifest your realization of data in your mind.  When you think of "data" today, what do you visualize? Are thinking of a spreadsheet?  Rows? Columns? A Number?  An entity?  Perhaps bigger, at a Database level?  Are you thinking of an Oracle database?

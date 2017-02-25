@@ -1,195 +1,78 @@
-Jekyll Clean
-============
+mediator
+========
 
-* Get it from [github](https://github.com/scotte/jekyll-clean).
-* See the [live demo](https://scotte.github.io/jekyll-clean).
-* See it [in action on my own blog](https://scotte.org).
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
-A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
-(not to be confused with jekyll-bootstrap) that's easy to modify and very
-modular in component and element reuse.
+Screenshots
+--------
+![screenshot](/assets/images/screenshot1.jpg)
+![screenshot](/assets/images/screenshot2.jpg)
+![screenshot](/assets/images/screenshot3.jpg)
 
-It uses Disqus for comments and includes Google Analytics support. Both of
-these features are disabled by default and can be enabled via \_config.yml. You
-can also rip this code out of the templates if you like (footer.html and post.html).
-The beauty of Jekyll - keep things clean... Jekyll Clean!
+Features
+-------
+* Fully Responsive layout
+* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
+* Minimal design
+* Featured article support
+* FontAwesome implemented for easy use of icons fonts
+* Free & Open Source Font usage
 
-The theme works well on mobile phones, using a collapsable nav bar and hiding the
-sidebar. The links pane in the sidebar is available on mobile through the nav menu,
-and you can do the same thing for any other sections added to the sidebar.
+Getting Started
+---
+- [Fork this repository](https://github.com/dirkfabisch/mediator)
+- Clone it: `git clone https://github.com/YOUR-USER/mediator`
+- Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
+- Run the jekyll server: `bundle exec jekyll serve`
 
-Don't forget to occassionally merge against my upstream repository so you can get
-the latest changes. Pull requests are encouraged and accepted!
+You should have a server up and running locally at <http://localhost:4000>.
 
-Installation
-============
+Configuration
+-----
 
-If you don't have a blog already on github, start by cloning this repository.
-Best to do that directly on github and then clone that down to your computer.
+The main settings happen in side of the _config.yml file:
 
-If you already do have a blog, You can certainly apply this theme to your existing
-blog in place, but then you won't be able to merge as the theme changes. If you
-re-apply your blog history on top of this theme's **gh-pages** branch, it's then
-easy to update to the latest version of the theme. You also don't want to have to
-deal with resolving old conflicts from your existing history, so you may wish to to
-push your existing master off to a new branch so you have the old history and start
-a new branch with this as the start, merging in your \_posts and other assets (after
-git rm'ing the current \_posts.
+### Site
 
-Not ideal, but you have to make a choice - either apply it manually or base your
-blog off this theme's branch. Either way it will work, and both have their own
-pros and cons.
+Main settings for the site
 
-You can setup an upstream tracking repository like so:
+* **title**: name of your site
+* **description**: description of your site
+* **logo**: small logo for the site (300x * 300x)
+* **cover**: large background image on the index page
 
-```
-$ git remote add upstream git@github.com:scotte/jekyll-clean.git
-```
+* **name**: name site owner
+* **email**: mail address of the site owner
+* **author**: author name
+* **author_image**: small image of author (300x * 300px)
+* **disqus**: add a disqus forum for your post
 
-And now when you wish to merge your own branch onto the latest version of the
-theme, simply do:
+### Social
 
-```
-$ git fetch upstream
-$ git merge upstream/gh-pages
-```
+The template allows to add all major social platforms to your site.
+Fill the the form for each platform. If you leave the share_* entries empty, the sharing buttons below a post are not shown.  If you leave the **url** and **desc** empty the icons are not shown on the index page, but the share icons on the article pages remains untouched (Thanks to [Phil](https://github.com/philsturgeon))
 
-Of course you will have to resolve conflicts for \_config.yml, \_includes/links-list.html,
-and \_posts, and so on, but in practice this is pretty simple.
+* **icon**:	name of social platform (must match a name of [font-awsome](http://fortawesome.github.io/Font-Awesome/) icon set )
+* **url**:	url of your account
+* **desc**: slogan of the platform
+* **share_url**: share url
+* **share_title**: first part of url for the title
+* **share_link**: second part of the share url for the link to the post
 
-This is how I maintain my own blog which is based on this theme. The old history is
-sitting in an **old-master** branch that I can refer to when I need to.
-
-Running Locally
-===============
-
-Here's the exact set of packages I need to install on Debian to run jekyll
-locally with this theme for testing.
+The Liquid template engine will magical combine the different parts to a share url.
 
 ```
-$ sudo aptitude install ruby ruby-dev rubygems nodejs
-$ sudo gem install jekyll jekyll-paginate
-```
+http://twitter.com/share?text=post_title&amp;url=post_url
+````
 
-And then it's just a simple matter of running jekyll locally:
+See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
 
-```
-$ jekyll serve --baseurl=''
-```
+Licensing
+---------
 
-Now browse to http://127.0.0.1:4000
+[MIT](https://github.com/dirkfabisch/mediator/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
 
-Using gh-pages
-==============
-
-Running a jekyll site is a bit outside the scope of this doc, but
-sometimes it can be a bit confusing how to configure jekyll for
-project pages versus user pages, for example.
-
-To start with, read through
-[the documentation here](https://help.github.com/articles/user-organization-and-project-pages/).
-This will provide a good overview on how it all works. The git branch and
-baseurl (in _config.yml) will change depending on the sort of site deployed.
-
-When you clone this repository, it's set up for project pages, so the
-deployed branch is "gh-pages" and baseurl is configured to 'jekyll-clean',
-because that's the name of this project.
-
-If you plan to deploy this as user pages, the deployed branch is "master"
-and baseurl is configured to '' (i.e. empty).
-
-Comment Systems
-===============
-
-Jekyll clean supports both [isso](https://posativ.org/isso) and
-[disqus](https://disqus.com) comment systems.
-
-After enabling **comments**, either **isso** or **disquss** must
-be configured. Don't try configuring both!
-
-Isso Comments
-=============
-
-Isso requires running a local server, so is not suitable for hosting
-in github pages, for example. Isso is open source and keeps all your
-data local, unlike Disqus (who knows exactly what they are doing with
-your data).
-
-In _config.yml you'll need to set **isso** to the fully-qualified URL
-if your isso server (this is the value for **data-isso** passed to the
-isso JS). Make sure **comments** is true.
-
-Disqus Comments
-===============
-
-Getting Disqus to work can be a bit more work than it seems like it should be.
-Make sure your Disqus account is correctly configured with the right domain
-of your blog and you know your Disqus shortname.
-
-In _config.yml you'll need to set **disqus** to your Disqus shortname and
-make sure **comments** is true.
-
-Finally, in posts, make sure you have **comments: true** in the YAML front
-matter.
-
-More information on using Disqus with Jekyll is
-[documented here](https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions).
-
-Code Syntax Highlighting
-========================
-
-To use code syntax highlighting, use the following syntax:
-
-```
-```python
-import random
-
-# Roll the die
-roll = random.randint(1, 20)
-print('You rolled a %d.' % roll)
-``` #REMOVE
-```
-
-(Remove #REMOVE from the end of the last line). Which will look like this in
-the rendered jekyll output using the default css/syntax.css provided with this
-theme (which is the **colorful** theme from [https://github.com/iwootten/jekyll-syntax](https://github.com/iwootten/jekyll-syntax)):
-
-```python
-import random
-
-# Roll the die
-roll = random.randint(1, 20)
-print('You rolled a %d.' % roll)
-```
-
-NOTE: The example in this README.md will render differently than in the
-final jekyll output. See the [live demo](https://scotte.github.io/jekyll-clean)
-to see how it really looks.
-
-You can, of course, use any theme you wish, see the jekyll and pygments
-documentation for more details.
-
-License
-=======
-
-The content of this theme is distributed and licensed under a
-![License Badge](/images/cc_by_88x31.png)
-[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
-
-    This license lets others distribute, remix, tweak, and build upon your work,
-    even commercially, as long as they credit you for the original creation. This
-    is the most accommodating of licenses offered. Recommended for maximum
-    dissemination and use of licensed materials.
-
-In other words: you can do anything you want with this theme on any site, just please
-provide a link to [the original theme on github](https://github.com/scotte/jekyll-clean)
-so I get credit for the original design. Beyond that, have at it!
-
-This theme includes the following files which are the properties of their
-respective owners:
-
-* js/bootstrap.min.js - [bootstrap](http://getbootstrap.com)
-* css/bootstrap.min.css - [bootstrap](http://getbootstrap.com)
-* js/jquery.min.js - [jquery](https://jquery.com)
-* images/cc_by_88x31.png - [creative commons](https://creativecommons.org)
-* css/colorful.css - [iwootten/jekyll-syntax](https://github.com/iwootten/jekyll-syntax)
+Contact
+-------
+I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
