@@ -12,6 +12,7 @@ email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/link-building.png"
 float_logo: true # true, false (default)
+btn: "/assets/images/menu_btn.png"
 
 # blog cover
 #cover: "/assets/images/intro-bg.jpg"
