@@ -32,5 +32,5 @@ My interests are around code, analytics, system architecture and big data. Outsi
 
 <img src="{{ site.baseurl }}/assets/images/Live-Neal-Preston-at-Morrison-Hotel-Led-Zeppelin-Photo-by-Neal-Preston.jpg" alt="Led Zeppelin"/>
 
-I also enjoy presenting and educating clients on this journey together. Whilst each client is unique in thier journey, the methods of navigation are shared amongst peers...
+I also enjoy presenting and educating clients on this journey together. While each client is unique in thier journey, the methods of navigation are shared amongst peers. Somewhere in here I supposed I'm supposed to say that this is mine and not representative of Cisco Systems...so there's that.
 
