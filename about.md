@@ -28,9 +28,9 @@ My approach is straight forward and pragmatic. As a team we'll start with requir
 
 # Interests
 
-My interests are around code, analytics, system architecture and big data. Outside of this realm I have interests in amateur astronomy, cooking, hiking, photography and travel. Musically I'm a fan of Led Zeppelin and of Jimmy Page...for the music, the showmanship and maybe even a little of the fun...
+My interests are around code, analytics, system architecture and big data. Outside of this realm I have interests in amateur astronomy, cooking, hiking, photography and travel. Musically I'm a fan of Led Zeppelin and of Jimmy Page...for the music, the showmanship and the fun.
 
-<img src="{{ site.baseurl }}/assets/images/Live-Neal-Preston-at-Morrison-Hotel-Led-Zeppelin-Photo-by-Neal-Preston.jpg" alt="Led Zeppelin" style="width: 350px;" />
+<img src="{{ site.baseurl }}/assets/images/Live-Neal-Preston-at-Morrison-Hotel-Led-Zeppelin-Photo-by-Neal-Preston.jpg" alt="Led Zeppelin"/>
 
 I also enjoy presenting and educating clients on this journey together. Whilst each client is unique in thier journey, the methods of navigation are shared amongst peers...
 
