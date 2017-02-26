@@ -24,7 +24,7 @@ Automation, orchestration and policy are predicated on code...exploring this tog
 
 # Philosophy
 
-My approach is straight forward and pragmatic. As a team we'll start with requirements and architect to panacea. We'll identify stakeholder perspectives and ensure that the solution fullfills those unique requirements. Upon design completion, we'll apply budget and executive sponsorship. Applying budget conotates trade-offs; a requirements-first approach ensures education around potential solution trade-offs. All deltas are agreed upon by the stakeholders to ensure system success. 
+My approach is straight forward and pragmatic. As a team we'll start with requirements and architect to panacea. We'll identify stakeholders and obtain their perspectives, ensuring the solution fullfills their unique and representative requirements. Upon design formulation, we apply budget and secure executive sponsorship. Applying budget connotates trade-offs; a requirements-first approach ensures education around potential solution trade-offs. All deltas are agreed upon by the architects, executives and stakeholders to ensure team success. 
 
 # Interests
 
