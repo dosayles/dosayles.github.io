@@ -16,14 +16,9 @@ Beyond this the prevalent theme is centered around the rapid pace of change in b
 # Big Data
 
 As a team, we'll lean heavily on Big Data and what it means for the teams...in almost every regard the challenges faced today--the business pressures--are created as a result of Big Data.  Understanding how Big Data fits in a mode 1 framework will lead to application of a mode 2 thinking...effectively solving challenges together.
-
-{% highlight html linenos %}
-We'll even throw some code from time to time...python, R, java...
-  test indented
-    this is a fake loop
-  for testing purposes
-enjoy...
-{% endhighlight %}
+  {% highlight html linenos %}
+    We'll even throw some code from time to time...python, R, java...
+  {% endhighlight %}
 Automation, orchestration and policy are predicated on code...exploring this together we'll address how it can help solve the above challenges being faced.  I'm versed in HTML/CSS, Java, Python, R, Bash (#!), Perl, Go, JSON, YML, and numerous others. We can decompose API constructs together or individually towards creating projects that effectively address the challenge at hand.
 
 # Philosophy
